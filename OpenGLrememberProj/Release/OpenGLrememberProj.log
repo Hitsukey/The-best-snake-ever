@@ -1,0 +1,2 @@
+﻿Render.obj : error LNK2001: неразрешенный внешний символ "__imp__PlaySoundA@12"
+C:\Users\Илья\Desktop\!КУРСАЧ_КГ\!grafika_lab2-master - музыка\Release\OpenGLrememberProj.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

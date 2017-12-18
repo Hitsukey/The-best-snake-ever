@@ -1,0 +1,28 @@
+﻿  Render.cpp
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(71): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(72): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(73): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(93): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(115): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(137): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(138): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(139): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(159): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(160): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(161): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(476): warning C4838: преобразование из "int" в "double" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(477): warning C4838: преобразование из "int" в "double" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(478): warning C4838: преобразование из "int" в "double" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(568): warning C4838: преобразование из "int" в "double" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(569): warning C4838: преобразование из "int" в "double" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(570): warning C4838: преобразование из "int" в "double" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(571): warning C4838: преобразование из "int" в "double" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(848): warning C4838: преобразование из "int" в "double" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(849): warning C4838: преобразование из "int" в "double" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(850): warning C4838: преобразование из "int" в "double" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(851): warning C4838: преобразование из "int" в "double" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(1337): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(1339): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(1340): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\илья\desktop\!курсач_кг\!grafika_lab2-master - музыка\openglrememberproj\render.cpp(1483): warning C4805: ==: небезопасное смешение типа "double" и типа "bool" в операции
+  OpenGLrememberProj.vcxproj -> C:\Users\Илья\Desktop\!КУРСАЧ_КГ\!grafika_lab2-master - музыка\Debug\OpenGLrememberProj.exe
